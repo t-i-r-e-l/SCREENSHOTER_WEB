@@ -120,7 +120,7 @@ class Ui_MainWindow(object):
         _translate = QtCore.QCoreApplication.translate
         MainWindow.setWindowTitle(_translate("MainWindow", "SCREENSHOTTER"))
         self.label_website.setText(_translate("MainWindow", "Enter site:"))
-        self.lineEdit_website.setText(_translate("MainWindow", "https://doctor30.ru/scoreboard/21"))
+        self.lineEdit_website.setText(_translate("MainWindow", "https://google.com"))
         self.label_width.setText(_translate("MainWindow", "width:"))
         self.label_height.setText(_translate("MainWindow", "height:"))
         self.label_sitescale.setText(_translate("MainWindow", "site scale:"))
