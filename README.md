@@ -18,5 +18,5 @@ PyQtWebEngine
 6) python3 main.py
 
 # Screnshots
-![alt text]()
-![alt text]()
+![alt text](https://github.com/t-i-r-e-l/SCREENSHOTER_WEB/blob/master/1.png)
+![alt text](https://github.com/t-i-r-e-l/SCREENSHOTER_WEB/blob/master/2.png)
