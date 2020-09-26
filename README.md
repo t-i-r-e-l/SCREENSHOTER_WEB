@@ -4,10 +4,8 @@ This is a python script with a graphical interface on qt5 for creating screensho
 Это python скрипт с графическим интерфейсом на qt5 для создания скриншотов веб сайтов в необходимом разрешении и с необходимым масштабом.
 
 # Dependencies
-Python3
-
-pyqt5
-
+Python3,
+pyqt5,
 PyQtWebEngine
 
 
