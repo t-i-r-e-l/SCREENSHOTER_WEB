@@ -16,3 +16,6 @@ PyQtWebEngine
 4) cd SCREENSHOTER_WEB
 5) pip3 install -r requirements.txt or pip3 install pyqt5 PyQtWebEngine
 6) python3 main.py
+
+# Screnshots
+![alt text](example.com/logo.png)
