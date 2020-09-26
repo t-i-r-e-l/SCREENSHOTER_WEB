@@ -16,7 +16,7 @@ PyQtWebEngine
 4) cd SCREENSHOTER_WEB
 5) pip3 install -r requirements.txt or pip3 install pyqt5 PyQtWebEngine
 6) python3 main.py
+7) Setting the length, width and scale(1=100%, 1,5=150%)
 
 # Screnshots
-![alt text](https://github.com/t-i-r-e-l/SCREENSHOTER_WEB/blob/master/1.png)
-![alt text](https://github.com/t-i-r-e-l/SCREENSHOTER_WEB/blob/master/2.png)
+![alt text](https://github.com/t-i-r-e-l/SCREENSHOTER_WEB/blob/master/1.png)![alt text](https://github.com/t-i-r-e-l/SCREENSHOTER_WEB/blob/master/2.png)
