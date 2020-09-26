@@ -18,8 +18,7 @@ PyQtWebEngine
 6) python3 main.py
 7) Setting the length, width and scale(1=100%, 1,5=150%)
 8) Click on the button "Show site"
-9) Click on the button "CREATE A SCREENSHOT"
-Screenshots are saved in the "SCREENSHOTs" folder
+9) Click on the button "CREATE A SCREENSHOT" (Screenshots are saved in the "SCREENSHOTs" folder)
 
 # Screnshots
 ![alt text](https://github.com/t-i-r-e-l/SCREENSHOTER_WEB/blob/master/1.png)![alt text](https://github.com/t-i-r-e-l/SCREENSHOTER_WEB/blob/master/2.png)
