@@ -18,4 +18,5 @@ PyQtWebEngine
 6) python3 main.py
 
 # Screnshots
-![alt text](example.com/logo.png)
+![alt text]()
+![alt text]()
