@@ -5,7 +5,9 @@ This is a python script with a graphical interface on qt5 for creating screensho
 
 # Dependencies
 Python3
+
 pyqt5
+
 PyQtWebEngine
 
 
