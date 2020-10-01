@@ -20,5 +20,5 @@ PyQtWebEngine
 8) Click on the button "Show site"
 9) Click on the button "CREATE A SCREENSHOT" (Screenshots are saved in the "SCREENSHOTs" folder)
 
-# Screnshots
+# Screenshots of the program
 ![alt text](https://github.com/t-i-r-e-l/SCREENSHOTER_WEB/blob/master/1.png)![alt text](https://github.com/t-i-r-e-l/SCREENSHOTER_WEB/blob/master/2.png)
